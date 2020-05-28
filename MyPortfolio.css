@@ -73,11 +73,15 @@ h1 {font-size: 60%; line-height:60%;}
 }
 
 .class7{
-	margin-left: 130px;
+	margin-left: 155px;
 }
 
 .class8{
 	margin-left: 20px;
+}
+
+.class9{
+		margin-left: 20px;
 }
 
 .jumbotron.class9{
@@ -87,3 +91,4 @@ h1 {font-size: 60%; line-height:60%;}
     margin-top: 1px;
     padding-top: 10px;
 }
+
